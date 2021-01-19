@@ -1,4 +1,4 @@
-#  Submission Report Project 1:
+#  Simple Shell Project Report
 
 We started the program by expanding on the code provided by the instructor.
 Looking at the prompt, we decided to follow the phases that were provides to us.
